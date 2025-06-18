@@ -3,7 +3,7 @@
 ## Datos generales
 
 - **Nombre del proyecto**:  
-- **Integrantes** (Nombres y códigos):  
+- **Integrantes** (Nombres y códigos):  sdsdsds
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 / 2 / 3  
 - **Grupo**: Grupo X
