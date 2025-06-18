@@ -2,8 +2,11 @@
 
 ## Datos generales
 
-- **Nombre del proyecto**:  
-- **Integrantes** (Nombres y códigos):  
+- **Nombre del proyecto**:  Diseño de un túnel
+- **Integrantes** (Nombres y códigos):
+      -Jessie Kiara Ibarra Campos
+      -Rosa Elizabeth Merchan Baltodano
+      -Nicolás Matias Villavisencio Luna
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 / 2 / 3  
 - **Grupo**: Grupo X
