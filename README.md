@@ -2,8 +2,13 @@
 
 ## Datos generales
 
-- **Nombre del proyecto**:  
-- **Integrantes** (Nombres y códigos):  
+- **Nombre del proyecto**:  Diseño de un túnel
+- **Integrantes** :
+    \begin{itemize}
+    \item Jessie
+    \item Eli
+\end{itemize}
+
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 / 2 / 3  
 - **Grupo**: Grupo X
