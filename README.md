@@ -2,7 +2,7 @@
 
 ## Datos generales
 
-- **Nombre del proyecto**:  
+- **Nombre del proyecto**:  Diseño de un túnel
 - **Integrantes** (Nombres y códigos):  
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 / 2 / 3  
